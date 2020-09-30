@@ -1,23 +1,17 @@
 # PYTHON REPO
+Essa sessão é responsável por estruturar os assuntos gerais da linguagem de programação Python 3.x. Para os assuntos específicos, é necessário consultar a sessão deles. A documentação completa está estruturada em uma [página wiki](https://github.com/ItaloSSilva19/programming_languages/wiki/Python) anexada ao projeto. Abaixo constam os tópicos abordados na documentação, além de outros assuntos relacionados ao uso do repositório.
 
 ## Tópicos:
-*  #### Introdução
 *  #### Conteúdo  
 *  #### Configurações necessárias para usar o repositório
 *  #### Como utilizá-lo
-*  #### Como contribuir com este projeto
-*  #### Fontes
-*  #### Licença
-
-
----
-
-### Introdução  
 
 ---
 
 ### Conteúdo:  
-*  #### História do Python  
+*  #### Introdução ao Python  
+*  *  ##### História
+*  *  ##### Conceitos importantes
 *  #### Aplicações
 *  #### Nível Introdutório:  
 *  *  ##### Variáveis  
@@ -38,29 +32,18 @@
 *  #### Áreas específicas:  
 *  *  ##### Desenvolvimento Web:  
 *  *  *  ###### Django  
-*  *  ##### Ciência de Dados:  
-*  *  *  ###### Pandas  
+
 ---
 
 ### Configurações necessárias para usar o repositório
 
+Não é necessário instalar nenhum programa para executar essa sessão. Entretanto, caso queira configurar o Python para rodá-lo localmente, segue o [link para download](https://www.python.org/downloads/).
+
 ---
 
 ### Como utilizá-lo
+Aplicam-se as [regras gerais](https://github.com/ItaloSSilva19/programming_languages#como-usar-este-reposit%C3%B3rio).
 
----
-
-### Como contribuir com este projeto
-
----
-
-### Fontes:
-
-Learn Python. disponível em: https://www.learnpython.org/. Acessado em: 26 set. 2020.
-
----
-
-### Licença
 
 
 
