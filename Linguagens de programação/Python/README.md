@@ -42,8 +42,7 @@ Não é necessário instalar nenhum programa para executar essa sessão. Entreta
 ---
 
 ### Como utilizá-lo
-Aplicam-se as [regras gerais](https://github.com/ItaloSSilva19/programming_languages#como-usar-este-reposit%C3%B3rio).
-
+Caso queira utilizar sem necessidade de fazer algum download, é possível resolver os códigos através de uma IDE online. Geralmente, quando necessário, eu utilizo a [Repl.it](https://repl.it/), mas fique a vontade de pesquisar por outra. Além disso, caso queira instalar uma IDE no seu computador, faça o [download](https://www.python.org/downloads/) diretamente do site oficial.
 
 
 
