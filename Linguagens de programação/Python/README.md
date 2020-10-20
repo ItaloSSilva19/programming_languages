@@ -32,6 +32,7 @@ Essa sessão é responsável por estruturar os assuntos gerais da linguagem de p
 *  #### Áreas específicas:  
 *  *  ##### Desenvolvimento Web:  
 *  *  *  ###### Django  
+*  *  ##### Testes:  
 
 ---
 
